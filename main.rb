@@ -1,1 +1,1 @@
-puts "Hello, World!"
+puts 'Hello, Hoa Khanh xinh dep!'
